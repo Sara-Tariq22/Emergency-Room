@@ -1,8 +1,8 @@
 # Emergency-Room
 ## Project Title
 ER-PRIORITY: Emergency Room Triage & Patient Management System
-## Research Problem
-In high-stress medical environments, a standard "First-In, First-Out" (FIFO) queue is insufficient because it treats a minor injury and a life-threatening emergency with the same urgency. Manual tracking of patient priority can lead to human error, delays in critical care, and disorganized waiting rooms.
+## Research Question
+How can we move away from simple queues to a system that prioritizes patients based on medical urgency rather than arrival time?
 ## Motivation
 This project provides an automated, logic-based solution for medical sorting. By using a Priority Queue, the system ensures that patients are ranked by the severity of their condition rather than their arrival time. It offers a clear, real-time visualization of the waiting room, allowing medical staff to focus on care rather than logistics.
 ## Control Flow
